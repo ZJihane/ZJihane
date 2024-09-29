@@ -1,4 +1,4 @@
-# Hi, I'm Zjihane Zouahri! 👋
+# Hi, I'm Jihane Zouahri! 👋
 
 **Software Engineering Student | Full-stack Developer**
 
