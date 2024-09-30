@@ -46,7 +46,6 @@ Welcome to my GitHub profile! I’m Zjihane, currently in my final year of softw
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zjihane&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Zjihane&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
